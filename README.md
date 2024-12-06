@@ -109,3 +109,4 @@ npx @modelcontextprotocol/inspector uv --directory /Users/sebastianschlaak/AI-Fo
 
 
 Upon launching, the Inspector will display a URL that you can access in your browser to begin debugging.# mcp-server
+# mcp-server
